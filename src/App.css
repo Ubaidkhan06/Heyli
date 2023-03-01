@@ -32,7 +32,18 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.footer-box {
+  background: linear-gradient(91.18deg, #FFD776 5.04%, #F8AA5A 38.01%, #F38844 91.88%);
+}
+
+.img-1 {
+  width: 100.17px;
+  height: 30.63px;
+  margin : 2px 5px
 }
